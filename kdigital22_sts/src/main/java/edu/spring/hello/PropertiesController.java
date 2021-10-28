@@ -1,4 +1,4 @@
-package edu.spring.naverserver;
+package edu.spring.hello;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Controller;
